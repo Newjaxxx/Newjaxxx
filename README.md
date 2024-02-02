@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Me llamo Newman A.</h1>
-<h3 align="center">Soy estudiante de ingenieria de sistemas</h3>
+<h3 align="center">Soy estudiante de ingeniería de Sistemas</h3>
 
 - 🌱 I’m currently learning **Html, css, js**
 
