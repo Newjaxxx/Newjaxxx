@@ -48,7 +48,7 @@
     
   </td>
 </table>
-## 🤝🏻 &nbsp;Connect with Me
+## 🤝🏻 Connect with Me
 
 <p align="center">
 
