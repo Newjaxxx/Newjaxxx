@@ -30,6 +30,19 @@
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<table>
+  <td>
+    
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Newman-a&theme=radical&hide_border=true)](https://git.io/streak-stats)
+    
+  </td>
+  <td>
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Newman-a&show_icons=true&theme=radical&hide_border=true)
+
+    
+  </td>
+</table>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Newman-a&theme=radical&hide_border=true)](https://git.io/streak-stats)
 ##
