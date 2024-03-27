@@ -15,7 +15,7 @@
 
 <br><br>
 
-## <picture></picture> 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -36,7 +36,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Newman-a&show_icons=true&theme=radical&hide_border=true) <!--Estadisticas-->
 <picture></picture>
 
-### <picture></picture> 🤝🏻 &nbsp;Connect with Me
+## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 
