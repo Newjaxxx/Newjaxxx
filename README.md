@@ -51,8 +51,8 @@
     
   </td>
 </table>
-## 🤝🏻 Connect with Me
-## 🤝🏻 &nbsp;Connect with Me
+
+## &nbsp;Connect with me 🤝🏻
 
 <p align="center">
 
