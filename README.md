@@ -44,13 +44,13 @@
   </td>
 </table>
 <table>
-  <td>
-    <center>
-      
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Newman-a&show_icons=true&theme=radical&hide_border=true)
-    </center>
-  </td>
   
+  <td>
+
+ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Newman-a&show_icons=true&theme=radical&hide_border=true)‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+    
+  </td>
+
 </table>
 
 ## &nbsp;Connect with me 🤝🏻
