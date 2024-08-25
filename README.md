@@ -38,7 +38,7 @@
   </td>
   <td>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Newman-a&layout=compact&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Newman-a&layout=compact&theme=radical&hide_border=true)
     
   </td>
 </table>
