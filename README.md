@@ -47,7 +47,7 @@
   
   <td>
     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Newman-a&show_icons=true&theme=radical&hide_border=true)‎
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiNewman-a=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)‎
  </td>
 </table>
 
