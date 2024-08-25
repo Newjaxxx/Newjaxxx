@@ -38,8 +38,7 @@
   </td>
   <td>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Newman-a&layout=compact)
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Newman-a)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Newman-a&layout=compact&theme=radical)
     
   </td>
 </table>
