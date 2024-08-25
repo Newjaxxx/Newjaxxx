@@ -33,8 +33,8 @@
 <table>
   <td>
     
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Newman-a&theme=radical&hide_border=true)](https://git.io/streak-stats)
-    
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Newman-a&theme=radical&hide_border=true&locale=es)](https://git.io/streak-stats)
+  
   </td>
   <td>
 
